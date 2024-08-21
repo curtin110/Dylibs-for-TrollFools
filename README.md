@@ -13,26 +13,9 @@
 - 🤝 接受社区投稿，欢迎各路高手分享您的自制插件。
 - ✅ 所有插件均经过基本测试，但请自行承担使用风险。
 
-## 投稿指南 📝
+## 反馈投稿指南 📝
 
-我们非常欢迎各位开发者、逆向工程师提交自己的作品！以下是投稿的简单步骤：
-
-1. **Fork 本仓库**：点击右上角的 `Fork` 按钮，将本库复制到您的账户下。🍴
-
-2. **创建分支**：在您的仓库中创建一个新的分支来进行开发。
-
-   ```bash
-   git checkout -b feature/your-plugin-name
-   ```
-
-3. **提交变更**：将您的插件上传到 `dylibs/` 目录下，并编写简短的插件说明。
-
-   ```bash
-   git add dylibs/your-plugin-name.dylib
-   git commit -m "Added new plugin: your-plugin-name"
-   ```
-
-4. **发起 Pull Request**：提交一个新的 Pull Request，我们会在审核后合并您的贡献。🔄
+📧：curtin110110@gmail.com🔄
 
 ## 注意事项 ⚠️
 
